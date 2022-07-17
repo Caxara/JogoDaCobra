@@ -15,7 +15,7 @@ body {
 }
 
 .pontuacao {
-    border-radius:none; 
+    border-radius:20px; 
     width: 150px; 
     height:75px; 
     margin-top: 10px;
